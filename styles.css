@@ -1,0 +1,47 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #fff;
+}
+
+.framer-6lic5n {
+    font-size: 12px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.ssr-variant.hidden-pnarcl {
+    width: 100%;
+    height: 100%;
+}
+
+.framer-1ieviq0 {
+    will-change: transform;
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: translateX(0);
+}
+
+.framer-1ieviq0 > div[data-framer-background-image-wrapper="true"] {
+    position: absolute;
+    border-radius: inherit;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-repeat: repeat;
+    background-position: left top;
+    background-size: 72px auto;
+    background-image: url('https://framerusercontent.com/images/uJaXEoYM5mo7X3DhyV2UTwqCiU.png');
+    border: 0;
+}
